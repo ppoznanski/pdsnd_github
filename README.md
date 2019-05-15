@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+15th May 2019.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+ Python script answering analytical questions about bikeshare trip data collected from three US cities. The scripts uses interactive experience in the terminal to presents the answers and sample data. The code collects the data, and compute descriptive statistics. Software developed during Udacity Programming for data science course.
 
 ### Files used
-Include the files used
+project_2_example.py
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.makeareadme.com/
+Kudos to Udacity team for teching me from zero to hero!
 
