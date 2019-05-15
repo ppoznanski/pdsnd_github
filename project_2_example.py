@@ -24,14 +24,14 @@ def get_filters():
     while True:
         month = input("Which month shall we analyze? | (e.g. for january, please input [1])\n")
         if month.lower() not in ('1','2','3','4','5','6'):
-            print ("please enter the correct input. | (e.g. for january, please input [1])\n")
+            print ("Please enter the correct input. | (e.g. for january, please input [1])\n")
         else:
             break
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         day = input("Which day of week shall we analyze?\n")
         if day.lower() not in ('monday','tuesday','wednesday','thursday','friday','saturday','sunday'):
-            print ("please enter the correct input.\n")
+            print ("Please enter the correct input.\n")
         else:
             break
     print('-'*40)
