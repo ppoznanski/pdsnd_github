@@ -1,5 +1,5 @@
 ### Date created
-15th May 2019.
+May 15th 2019.
 
 ### Project Title
 Explore US Bikeshare Data
@@ -13,5 +13,4 @@ project_2_example.py
 
 ### Credits
 https://www.makeareadme.com/
-Kudos to Udacity team for teching me from zero to hero!
-
+Kudos to Udacity team for teaching me from zero to hero!
